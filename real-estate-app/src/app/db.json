@@ -1,0 +1,25 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "title": "Spacious Family Home",
+            "price": "$300,000",
+            "description": "Beautiful 4-bedroom family home with a large backyard.",
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Cozy Apartment",
+            "price": "$150,000",
+            "description": "Modern 2-bedroom apartment in a prime location.",
+            "image": "https://example.com/image2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Luxury Villa",
+            "price": "$1,000,000",
+            "description": "Stunning luxury villa with ocean views and private pool.",
+            "image": "https://example.com/image3.jpg"
+        }
+    ]
+}
